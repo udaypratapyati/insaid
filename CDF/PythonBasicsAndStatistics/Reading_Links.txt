@@ -1,0 +1,9 @@
+
+Links
+
+http://foobarnbaz.com/2012/07/08/understanding-python-variables/ 
+http://deeplearning.net/software/theano/tutorial/python-memory-management.html
+https://realpython.com/python-memory-management/
+
+
+https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots 
