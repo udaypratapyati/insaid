@@ -1,0 +1,4 @@
+1. https://jakevdp.github.io/PythonDataScienceHandbook/  
+2. http://www.greenteapress.com/thinkstats/thinkstats.pdf  
+
+
