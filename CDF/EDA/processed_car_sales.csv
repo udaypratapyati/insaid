@@ -153,6 +153,7 @@ Daewoo,4300.0,sedan,70.0,1.5,Petrol,yes,2007,front
 Mitsubishi,18999.0,crossover,173.0,3.8,Gas,yes,2008,full
 Land Rover,49999.0,crossover,45.0,3.0,Petrol,yes,2014,full
 Mercedes-Benz,71999.0,crossover,1.0,2.2,Diesel,yes,2016,full
+Mercedes-Benz,109999.0,crossover,1.0,3.0,Diesel,yes,2016,full
 Mitsubishi,18500.0,crossover,135.0,3.0,Gas,yes,2009,full
 Volkswagen,18900.0,other,45.0,2.0,Diesel,yes,2013,front
 Mercedes-Benz,17900.0,van,167.0,2.2,Diesel,yes,2012,rear
@@ -367,6 +368,7 @@ Subaru,38900.0,crossover,138.0,2.0,Diesel,yes,2016,full
 Renault,13200.0,van,230.0,2.0,Diesel,yes,2009,front
 Toyota,26500.0,crossover,21.0,2.0,Petrol,yes,2013,full
 Volkswagen,7800.0,van,282.0,2.5,Diesel,yes,2000,front
+Mercedes-Benz,109999.0,crossover,1.0,3.0,Diesel,yes,2016,full
 Audi,24900.0,sedan,163.0,4.2,Diesel,yes,2008,full
 Lexus,27500.0,crossover,150.0,4.7,Gas,yes,2005,full
 Volkswagen,10800.0,vagon,217.0,2.0,Diesel,no,2008,full
@@ -849,6 +851,7 @@ BMW,3500.0,sedan,272.0,2.0,Diesel,yes,2000,rear
 Mazda,14800.0,sedan,30.0,2.0,Petrol,yes,2009,front
 Daewoo,3950.0,other,113.0,1.5,Gas,yes,2006,front
 Audi,36100.0,sedan,75.0,3.0,Diesel,yes,2011,full
+Mercedes-Benz,109999.0,crossover,1.0,3.0,Diesel,yes,2016,full
 Renault,12200.0,van,164.0,2.5,Diesel,yes,2009,front
 Mercedes-Benz,29500.0,crossover,253.0,5.0,Petrol,yes,2003,full
 Porsche,49500.0,crossover,60.0,3.6,Petrol,yes,2012,full
@@ -1073,6 +1076,7 @@ Mercedes-Benz,3300.0,sedan,200.0,2.7,Diesel,no,2000,rear
 Audi,81500.0,sedan,49.5,3.0,Petrol,yes,2016,full
 Hyundai,19900.0,sedan,15.0,1.6,Petrol,yes,2016,front
 Hyundai,9700.0,crossover,130.0,2.0,Gas,yes,2007,full
+Lexus,134999.0,crossover,11.5,4.5,Diesel,yes,2016,full
 BMW,3099.0,sedan,230.0,3.0,Diesel,no,2003,rear
 Volkswagen,5000.0,van,326.0,2.4,Diesel,yes,1995,front
 Nissan,25000.0,crossover,67.0,2.0,Diesel,yes,2014,full
@@ -1663,6 +1667,7 @@ Volkswagen,9000.0,van,181.0,1.6,Diesel,yes,2011,front
 Toyota,12800.0,sedan,123.0,3.5,Petrol,yes,2007,front
 Mercedes-Benz,10200.0,sedan,174.0,2.6,Gas,yes,2001,rear
 BMW,69999.0,crossover,1.0,2.0,Petrol,yes,2016,full
+Mercedes-Benz,90749.5,crossover,1.0,3.0,Petrol,yes,2016,full
 Nissan,13300.0,crossover,87.0,2.0,Gas,yes,2011,front
 BMW,42000.0,sedan,59.0,4.4,Petrol,yes,2009,rear
 Volkswagen,4400.0,hatch,238.0,1.6,Petrol,yes,1994,front
@@ -1824,6 +1829,7 @@ Hyundai,11300.0,crossover,166.0,2.0,Petrol,yes,2008,full
 Seat,8500.0,hatch,167.0,2.0,Diesel,yes,2008,front
 Kia,12000.495,sedan,1.0,1.4,Petrol,yes,2015,front
 Honda,27802.50525,crossover,1.0,2.4,Petrol,yes,2016,full
+Mitsubishi,19400.0,crossover,78.0,2.4,Petrol,yes,2012,full
 Volkswagen,28000.0,crossover,132.0,2.0,Diesel,yes,2011,full
 Kia,16153.8,vagon,1.0,1.6,Petrol,yes,2016,front
 Skoda,14356.875,sedan,1.0,1.6,Petrol,yes,2015,front
@@ -1983,6 +1989,7 @@ Toyota,14900.0,sedan,149.0,3.5,Gas,yes,2008,front
 Kia,11900.0,crossover,130.0,2.5,Diesel,yes,2008,full
 Audi,48000.0,crossover,126.0,3.0,Diesel,yes,2013,full
 Volkswagen,10500.0,sedan,100.0,1.8,Petrol,yes,2008,front
+Lexus,134999.0,crossover,11.5,4.5,Diesel,yes,2016,full
 Seat,11500.0,hatch,55.0,1.6,Petrol,yes,2010,front
 Volkswagen,1650.0,sedan,210.0,1.8,Petrol,no,1998,front
 Geely,7350.0,sedan,37.0,1.5,Petrol,yes,2014,front
@@ -2032,7 +2039,9 @@ Audi,21000.0,hatch,34.0,1.4,Petrol,yes,2013,front
 Toyota,22999.0,crossover,152.0,4.0,Gas,yes,2008,full
 BMW,58000.0,crossover,64.0,2.0,Diesel,yes,2015,full
 BMW,26900.0,crossover,170.0,3.0,Diesel,yes,2016,full
+Land Rover,49999.0,crossover,70.0,3.0,Diesel,yes,2016,full
 Toyota,2499.0,vagon,254.0,2.0,Diesel,no,2000,front
+Mercedes-Benz,109999.0,crossover,1.0,3.0,Diesel,yes,2016,full
 BMW,4000.0,sedan,230.0,2.0,Diesel,no,2003,rear
 Mazda,11300.0,other,108.0,2.3,Petrol,yes,2008,full
 Audi,15000.0,vagon,154.0,2.0,Diesel,yes,2008,front
@@ -2089,6 +2098,7 @@ BMW,12900.0,vagon,260.0,3.0,Diesel,yes,2004,rear
 Lexus,15300.0,crossover,162.0,3.3,Petrol,yes,2006,full
 BMW,77777.0,crossover,1.0,3.0,Diesel,yes,2014,full
 Mercedes-Benz,70000.0,other,21.0,6.0,Petrol,yes,2008,rear
+Mitsubishi,19400.0,crossover,78.0,2.4,Petrol,yes,2012,full
 Skoda,10950.0,vagon,137.0,2.0,Petrol,yes,2008,full
 Hyundai,12700.0,crossover,104.0,2.0,Gas,yes,2009,full
 Mercedes-Benz,109000.0,crossover,1.0,3.5,Diesel,yes,2016,full
@@ -2119,6 +2129,7 @@ Mitsubishi,13200.0,crossover,79.0,2.4,Gas,yes,2009,full
 Seat,1850.0,hatch,250.0,1.1,Petrol,yes,1994,front
 Volkswagen,8757.0,sedan,32.0,1.6,Petrol,no,2015,front
 Mercedes-Benz,6500.0,van,450.0,2.3,Diesel,yes,1996,front
+Mercedes-Benz,295000.0,sedan,29.0,6.0,Petrol,yes,2011,rear
 Mercedes-Benz,4300.0,van,300.0,2.2,Diesel,no,2005,rear
 Honda,25900.0,other,54.0,3.5,Petrol,yes,2012,full
 Mercedes-Benz,12600.0,sedan,300.0,2.7,Diesel,yes,2003,rear
@@ -2491,6 +2502,7 @@ Peugeot,12500.0,other,225.0,2.2,Diesel,yes,2011,front
 Opel,12200.0,van,145.0,2.0,Diesel,yes,2013,front
 Mitsubishi,15200.0,crossover,193.0,3.0,Gas,yes,2008,full
 Volkswagen,9300.0,vagon,150.0,2.0,Petrol,yes,2008,front
+Mercedes-Benz,295000.0,sedan,29.0,6.0,Petrol,yes,2011,rear
 Land Rover,38500.0,other,56.0,2.0,Petrol,yes,2013,full
 Mercedes-Benz,3900.0,sedan,111.0,2.5,Diesel,yes,1989,rear
 Mitsubishi,6400.0,sedan,127.0,1.6,Petrol,yes,2006,front
@@ -2922,6 +2934,7 @@ Suzuki,10400.0,crossover,144.0,2.0,Petrol,yes,2006,full
 Renault,2999.0,van,245.0,1.5,Diesel,yes,2003,front
 Peugeot,6300.0,hatch,176.0,1.6,Gas,yes,2005,full
 Mitsubishi,11500.0,crossover,191.0,3.0,Gas,yes,2006,full
+BMW,77500.0,crossover,1.0,3.0,Petrol,yes,2016,full
 Peugeot,6300.0,other,112.0,1.6,Diesel,yes,2007,front
 Geely,7800.0,sedan,32.0,1.8,Gas,yes,2014,front
 Opel,1499.0,sedan,260.0,2.5,Petrol,no,1997,front
@@ -3088,6 +3101,7 @@ Subaru,14600.0,crossover,93.0,3.6,Petrol,yes,2008,full
 BMW,36300.0,crossover,83.0,3.5,Petrol,yes,2010,full
 Volkswagen,21000.0,crossover,90.0,3.6,Petrol,yes,2008,full
 Hyundai,7800.0,hatch,58.0,1.4,Petrol,yes,2011,front
+Land Rover,49999.0,crossover,70.0,3.0,Diesel,yes,2016,full
 Kia,9450.0,hatch,182.0,2.0,Petrol,yes,2006,full
 Hyundai,15500.0,crossover,135.0,3.8,Gas,yes,2009,full
 Kia,13000.0,sedan,13.0,1.4,Petrol,yes,2015,front
@@ -3570,6 +3584,7 @@ Kia,20999.0,crossover,83.0,2.0,Diesel,yes,2013,full
 Hyundai,20200.0,sedan,75.0,1.6,Petrol,yes,2016,front
 Mitsubishi,15800.0,other,146.0,2.5,Diesel,yes,2013,full
 Ford,2700.0,sedan,107.0,2.0,Gas,yes,1995,rear
+BMW,77500.0,crossover,1.0,3.0,Petrol,yes,2016,full
 Nissan,6700.0,sedan,170.0,2.0,Petrol,yes,2003,front
 BMW,56500.0,crossover,1.0,2.0,Diesel,yes,2016,full
 ZAZ,4600.0,sedan,88.0,1.3,Gas,yes,2014,front
@@ -4390,6 +4405,7 @@ Mitsubishi,17800.0,crossover,111.0,2.4,Petrol,yes,2011,full
 Kia,5800.0,hatch,108.0,1.12,Diesel,yes,2008,front
 Renault,6800.0,sedan,87.0,1.4,Petrol,yes,2013,front
 Audi,51500.0,crossover,28.0,3.0,Diesel,yes,2014,full
+Mercedes-Benz,124000.0,crossover,190.0,3.0,Petrol,yes,2016,full
 Lexus,32555.0,crossover,77.0,3.5,Petrol,yes,2011,full
 Mercedes-Benz,58999.0,crossover,190.0,2.2,Diesel,yes,2016,full
 Mercedes-Benz,40500.0,sedan,108.0,5.5,Petrol,yes,2010,full
@@ -7396,6 +7412,7 @@ Subaru,37900.0,crossover,138.0,2.0,Diesel,yes,2016,full
 Subaru,12000.0,crossover,1.0,2.0,Diesel,yes,2016,full
 Mercedes-Benz,43999.0,sedan,42.0,3.0,Diesel,yes,2014,full
 BMW,64999.0,sedan,15.0,3.0,Petrol,yes,2012,rear
+Mercedes-Benz,124000.0,crossover,190.0,3.0,Petrol,yes,2016,full
 Honda,16300.0,crossover,1.0,1.6,Diesel,yes,2016,full
 Hyundai,10200.0,other,82.0,2.0,Gas,yes,2008,front
 Renault,11700.0,crossover,90.0,1.5,Diesel,yes,2011,full
@@ -8901,6 +8918,7 @@ Mercedes-Benz,29900.0,crossover,86.0,3.0,Gas,yes,2010,rear
 VAZ,3650.0,vagon,230.0,1.6,Gas,yes,2007,front
 VAZ,1850.0,sedan,94.0,1.5,Gas,yes,2007,front
 Mercedes-Benz,2199.0,van,396.0,2.2,Diesel,no,2000,front
+Mercedes-Benz,90749.5,crossover,1.0,3.0,Petrol,yes,2016,full
 Mitsubishi,11999.0,crossover,235.0,3.0,Gas,yes,2007,full
 Chevrolet,5700.0,sedan,89.0,1.5,Petrol,yes,2008,front
 Volkswagen,14800.0,sedan,143.0,2.0,Diesel,yes,2010,front
