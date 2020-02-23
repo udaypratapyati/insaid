@@ -30,3 +30,6 @@ This problem involves predicting the prices of the houses which are continuous a
 1. Minimize RMSE.
 
 2. Try to provide some interpretability.
+
+## Python note book
+- [Code](https://github.com/udaypratapyati/insaid/blob/master/GCD/Projects/HousePricePrediction/Term2-HousePricePrediction.ipynb "Code")
